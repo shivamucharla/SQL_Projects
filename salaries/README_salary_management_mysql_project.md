@@ -119,5 +119,3 @@ And re-enabled with:
 SET SQL_SAFE_UPDATES = 1;
 ```
 
-## License:
-This project is licensed under the MIT License.
